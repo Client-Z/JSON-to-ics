@@ -1,0 +1,834 @@
+[
+  {
+    "className": [
+      "fc-past"
+    ],
+    "start": "2017-01-09T07:00:00+03:00",
+    "allDay": false,
+    "end": "2017-01-09T08:00:00+03:00",
+    "location": "LakeHub, Kisumu, Kisumu County, Kenya",
+    "title": "Next '17 Extended",
+    "url": "https://developers.google.com/events/5174345854615552/",
+    "iconUrl": "https://developers.google.com/_static/images/gdg-icon.png",
+    "id": "5174345854615552"
+  },
+  {
+    "className": [
+      "fc-past"
+    ],
+    "start": "2017-01-09T14:00:00+09:00",
+    "allDay": false,
+    "end": "2017-01-09T16:00:00+09:00",
+    "location": "대한민국 부산광역시 부산진구 부전2동 (주)마리포사",
+    "title": "GDG Busan - 정기 스터디: Xcode",
+    "url": "https://developers.google.com/events/5224788098023424/",
+    "iconUrl": "https://developers.google.com/_static/images/gdg-icon.png",
+    "id": "5224788098023424"
+  },
+  {
+    "className": [
+      "fc-past"
+    ],
+    "start": "2017-01-09T18:00:00+07:00",
+    "allDay": false,
+    "end": "2017-01-09T19:00:00+07:00",
+    "location": "ulitsa Nikolaeva, 11, Novosibirsk, Novosibirsk Oblast, Russia",
+    "title": "GDG Monthly Meetup",
+    "url": "https://developers.google.com/events/6303925676015616/",
+    "iconUrl": "https://developers.google.com/_static/images/gdg-icon.png",
+    "id": "6303925676015616"
+  },
+  {
+    "className": [
+      "fc-past"
+    ],
+    "start": "2017-01-09T12:30:00+00:00",
+    "allDay": false,
+    "end": "2017-01-09T14:00:00+00:00",
+    "location": "Vida e Caffe, Accra, Ghana",
+    "title": "GDG Lead Sync",
+    "url": "https://developers.google.com/events/6590758322438144/",
+    "iconUrl": "https://developers.google.com/_static/images/gdg-icon.png",
+    "id": "6590758322438144"
+  },
+  {
+    "className": [
+      "fc-past"
+    ],
+    "start": "2017-01-09T17:00:00+03:00",
+    "allDay": false,
+    "end": "2017-01-09T19:00:00+03:00",
+    "location": "Kazımdirik Mahallesi, Ege Üniversitesi Bilgisayar Mühendisliği Bölümü, Bornova Metro İstasyonu, Bornova/İzmir, Türkiye",
+    "title": "Java&Android Course",
+    "url": "https://developers.google.com/events/5023236632608768-5668600916475904/",
+    "iconUrl": "https://developers.google.com/_static/images/gdg-icon.png",
+    "id": "5023236632608768-5668600916475904"
+  },
+  {
+    "className": [
+      "fc-past"
+    ],
+    "start": "2017-01-09T18:30:00+03:00",
+    "allDay": false,
+    "end": "2017-01-09T20:30:00+03:00",
+    "location": "улица Пушкина, 2, Пенза, Пензенская область, Россия",
+    "title": "Язык Dart и Chrome Dev Tool",
+    "url": "https://developers.google.com/events/5465738548346880/",
+    "iconUrl": "https://developers.google.com/_static/images/gdg-icon.png",
+    "id": "5465738548346880"
+  },
+  {
+    "className": [
+      "fc-past"
+    ],
+    "start": "2017-01-09T17:00:00+01:00",
+    "allDay": false,
+    "end": "2017-01-09T19:00:00+01:00",
+    "location": "Impact Hub Ostrava, Sokolská třída, Ostrava, Česká republika",
+    "title": "GDG Garage Ostrava #34",
+    "url": "https://developers.google.com/events/4666096764059648/",
+    "iconUrl": "https://developers.google.com/_static/images/gdg-icon.png",
+    "id": "4666096764059648"
+  },
+  {
+    "className": [
+      "fc-past"
+    ],
+    "start": "2017-01-09T18:30:00+01:00",
+    "allDay": false,
+    "end": "2017-01-09T21:00:00+01:00",
+    "location": "Městská knihovna v Praze, Mariánské náměstí, Prague, Czech Republic",
+    "title": "GDG Garage Prague One",
+    "url": "https://developers.google.com/events/5119473626120192-5741031244955648/",
+    "iconUrl": "https://developers.google.com/_static/images/gdg-icon.png",
+    "id": "5119473626120192-5741031244955648"
+  },
+  {
+    "className": [
+      "fc-past"
+    ],
+    "start": "2017-01-09T17:00:00-05:00",
+    "allDay": false,
+    "end": "2017-01-09T21:00:00-05:00",
+    "location": "Chelsea Market, 9th Avenue, New York, NY, United States",
+    "title": "[GDG NYC] January Meetup - Entrepreneurs Nights",
+    "url": "https://developers.google.com/events/5429672533557248/",
+    "iconUrl": "https://developers.google.com/_static/images/gdg-icon.png",
+    "id": "5429672533557248"
+  },
+  {
+    "className": [
+      "fc-past"
+    ],
+    "start": "2017-01-10T05:00:00+03:00",
+    "allDay": false,
+    "end": "2017-01-10T07:00:00+03:00",
+    "location": "Kazımdirik Mahallesi, Ege Üniversitesi Bilgisayar Mühendisliği Bölümü, Bornova Metro İstasyonu, Bornova/İzmir, Türkiye",
+    "title": "Java&Android Course",
+    "url": "https://developers.google.com/events/5015725305233408-5668600916475904/",
+    "iconUrl": "https://developers.google.com/_static/images/gdg-icon.png",
+    "id": "5015725305233408-5668600916475904"
+  },
+  {
+    "className": [
+      "fc-past"
+    ],
+    "start": "2017-01-10T10:00:00+02:00",
+    "allDay": false,
+    "end": "2017-01-10T18:00:00+02:00",
+    "location": "Delta University for Science and Technology, Al Hafir WA Al Amal, Belkas, Dakahlia Governorate, Egypt",
+    "title": "Google Technology",
+    "url": "https://developers.google.com/events/5606010972274688/",
+    "iconUrl": "https://developers.google.com/_static/images/gdg-icon.png",
+    "id": "5606010972274688"
+  },
+  {
+    "className": [
+      "fc-past"
+    ],
+    "start": "2017-01-10T09:00:00-03:00",
+    "allDay": true,
+    "end": "2017-01-12T00:59:00-03:00",
+    "location": "UNIPÊ - Água Fria, João Pessoa - PB, Brasil",
+    "title": "GameDev Club - Treinamento Unity 3D",
+    "url": "https://developers.google.com/events/5210725771116544/",
+    "iconUrl": "https://developers.google.com/_static/images/gdg-icon.png",
+    "id": "5210725771116544"
+  },
+  {
+    "className": [
+      "fc-past"
+    ],
+    "start": "2017-01-10T23:00:00+09:00",
+    "allDay": false,
+    "end": "2017-01-10T23:59:00+09:00",
+    "location": "Seoul, South Korea",
+    "title": "[GDG Korea Golang]느슨한 Go언어 스터디",
+    "url": "https://developers.google.com/events/5581705483911168/",
+    "iconUrl": "https://developers.google.com/_static/images/gdg-icon.png",
+    "id": "5581705483911168"
+  },
+  {
+    "className": [
+      "fc-past"
+    ],
+    "start": "2017-01-10T19:00:00+02:00",
+    "allDay": false,
+    "end": "2017-01-10T22:00:00+02:00",
+    "location": "Google, Yigal Alon Street, Tel Aviv-Yafo, Israel",
+    "title": "WTM-il Monthly: Stretching Out Of Your Comfort Zone ",
+    "url": "https://developers.google.com/events/5452319392792576/",
+    "iconUrl": "https://developers.google.com/_static/images/gdg-icon.png",
+    "id": "5452319392792576"
+  },
+  {
+    "className": [
+      "fc-past"
+    ],
+    "start": "2017-01-10T18:00:00-05:00",
+    "allDay": false,
+    "end": "2017-01-10T20:00:00-05:00",
+    "location": "Alpha Loft, Elm Street, Manchester, NH, United States",
+    "title": "Firebase Watch Party",
+    "url": "https://developers.google.com/events/4915928242061312/",
+    "iconUrl": "https://developers.google.com/_static/images/gdg-icon.png",
+    "id": "4915928242061312"
+  },
+  {
+    "className": [
+      "fc-past"
+    ],
+    "start": "2017-01-11T00:00:00+01:00",
+    "allDay": true,
+    "end": "2017-01-11T00:00:00+01:00",
+    "location": "Ebolowa, Région du Sud, Cameroun",
+    "title": "Chrome Dev from zero to hero",
+    "url": "https://developers.google.com/events/6039790695481344-5707702298738688/",
+    "iconUrl": "https://developers.google.com/_static/images/gdg-icon.png",
+    "id": "6039790695481344-5707702298738688"
+  },
+  {
+    "className": [
+      "fc-past"
+    ],
+    "start": "2017-01-10T18:30:00-05:00",
+    "allDay": false,
+    "end": "2017-01-10T20:00:00-05:00",
+    "location": "201 North Tryon Street, Charlotte, NC, United States",
+    "title": "GDG Charlotte Android Meeting",
+    "url": "https://developers.google.com/events/5499996739469312-5707702298738688/",
+    "iconUrl": "https://developers.google.com/_static/images/gdg-icon.png",
+    "id": "5499996739469312-5707702298738688"
+  },
+  {
+    "className": [
+      "fc-past"
+    ],
+    "start": "2017-01-10T18:00:00-06:00",
+    "allDay": false,
+    "end": "2017-01-10T19:00:00-06:00",
+    "location": "Agosto, North 5th Street, Minneapolis, MN, United States",
+    "title": "All About RecyclerView @ Agosto",
+    "url": "https://developers.google.com/events/4716007077445632/",
+    "iconUrl": "https://developers.google.com/_static/images/gdg-icon.png",
+    "id": "4716007077445632"
+  },
+  {
+    "className": [
+      "fc-past"
+    ],
+    "start": "2017-01-10T18:00:00-06:00",
+    "allDay": false,
+    "end": "2017-01-10T19:30:00-06:00",
+    "location": "ASYNCHRONY, Spruce Street, St. Louis, MO, United States",
+    "title": "Android Zombies: How to Not Get Bit",
+    "url": "https://developers.google.com/events/5131973888311296/",
+    "iconUrl": "https://developers.google.com/_static/images/gdg-icon.png",
+    "id": "5131973888311296"
+  },
+  {
+    "className": [
+      "fc-past"
+    ],
+    "start": "2017-01-10T19:00:00-05:00",
+    "allDay": false,
+    "end": "2017-01-10T20:00:00-05:00",
+    "location": "Hangout Conference",
+    "title": "GDG Buffalo IoT chat",
+    "url": "https://developers.google.com/events/5830118180913152-5700735861784576/",
+    "iconUrl": "https://developers.google.com/_static/images/gdg-icon.png",
+    "id": "5830118180913152-5700735861784576"
+  },
+  {
+    "className": [
+      "fc-past"
+    ],
+    "start": "2017-01-10T19:00:00-06:00",
+    "allDay": false,
+    "end": "2017-01-10T22:00:00-06:00",
+    "location": "Centraal, Zamora, La Condesa, Mexico City, Mexico",
+    "title": "Meetup 24",
+    "url": "https://developers.google.com/events/5725584271081472/",
+    "iconUrl": "https://developers.google.com/_static/images/gdg-icon.png",
+    "id": "5725584271081472"
+  },
+  {
+    "className": [
+      "fc-past"
+    ],
+    "start": "2017-01-11T18:00:00+09:00",
+    "allDay": false,
+    "end": "2017-01-11T22:00:00+09:00",
+    "location": "福岡県福岡市中央区天神1丁目2番12号 ",
+    "title": "Android Night",
+    "url": "https://developers.google.com/events/5023244886999040/",
+    "iconUrl": "https://developers.google.com/_static/images/gdg-icon.png",
+    "id": "5023244886999040"
+  },
+  {
+    "className": [
+      "fc-past"
+    ],
+    "start": "2017-01-11T20:00:00+09:00",
+    "allDay": false,
+    "end": "2017-01-11T21:00:00+09:00",
+    "location": "대한민국 부산광역시 부산진구 부전2동 (주)마리포사",
+    "title": "GDG Busan - 블로그 번역 스터디",
+    "url": "https://developers.google.com/events/6142107682865152/",
+    "iconUrl": "https://developers.google.com/_static/images/gdg-icon.png",
+    "id": "6142107682865152"
+  },
+  {
+    "className": [
+      "fc-past"
+    ],
+    "start": "2017-01-11T18:00:00+02:00",
+    "allDay": false,
+    "end": "2017-01-11T19:30:00+02:00",
+    "location": "JoziHub, Stanley Avenue, Johannesburg, South Africa",
+    "title": "GDG Johannesburg - Endless Possibilities with Beacons / Custom Chat Bots for Google Home",
+    "url": "https://developers.google.com/events/4619953061494784/",
+    "iconUrl": "https://developers.google.com/_static/images/gdg-icon.png",
+    "id": "4619953061494784"
+  },
+  {
+    "className": [
+      "fc-past"
+    ],
+    "start": "2017-01-11T18:00:00+01:00",
+    "allDay": false,
+    "end": "2017-01-11T21:00:00+01:00",
+    "location": "Campus Warsaw, Ząbkowska, Warszawa, Polska",
+    "title": "Women Techmakers Warszawa #1",
+    "url": "https://developers.google.com/events/6389484066963456/",
+    "iconUrl": "https://developers.google.com/_static/images/gdg-icon.png",
+    "id": "6389484066963456"
+  },
+  {
+    "className": [
+      "fc-past"
+    ],
+    "start": "2017-01-11T19:00:00+01:00",
+    "allDay": false,
+    "end": "2017-01-11T22:00:00+01:00",
+    "location": "Juicymo s.r.o., Sevastopolská, Praha, Česká republika",
+    "title": "IoT Garage Prague",
+    "url": "https://developers.google.com/events/5048642981593088-5639274879778816/",
+    "iconUrl": "https://developers.google.com/_static/images/gdg-icon.png",
+    "id": "5048642981593088-5639274879778816"
+  },
+  {
+    "className": [
+      "fc-past"
+    ],
+    "start": "2017-01-11T18:00:00-02:00",
+    "allDay": false,
+    "end": "2017-01-11T22:00:00-02:00",
+    "location": "Snookers Lavras",
+    "title": "Welcome 2017! First meeting",
+    "url": "https://developers.google.com/events/6181565681631232/",
+    "iconUrl": "https://developers.google.com/_static/images/gdg-icon.png",
+    "id": "6181565681631232"
+  },
+  {
+    "className": [
+      "fc-past"
+    ],
+    "start": "2017-01-11T20:00:00-02:00",
+    "allDay": false,
+    "end": "2017-01-11T21:00:00-02:00",
+    "location": "Rua Tapajós, 152 - Centro, Pato Branco - PR, Brasil",
+    "title": "Programação 2017!",
+    "url": "https://developers.google.com/events/4711588462067712/",
+    "iconUrl": "https://developers.google.com/_static/images/gdg-icon.png",
+    "id": "4711588462067712"
+  },
+  {
+    "className": [
+      "fc-past"
+    ],
+    "start": "2017-01-11T18:30:00-05:00",
+    "allDay": false,
+    "end": "2017-01-11T20:00:00-05:00",
+    "location": "Cincinnati, OH, United States",
+    "title": "GDG Cincinnati Monthly Event",
+    "url": "https://developers.google.com/events/6623751646216192-5741031244955648/",
+    "iconUrl": "https://developers.google.com/_static/images/gdg-icon.png",
+    "id": "6623751646216192-5741031244955648"
+  },
+  {
+    "className": [
+      "fc-past"
+    ],
+    "start": "2017-01-12T00:00:00+00:00",
+    "allDay": false,
+    "end": "2017-01-12T01:00:00+00:00",
+    "location": "restaurante paraiso, Rua do Paraíso, Porto, Portugal",
+    "title": "GDG Porto 2017 Opening",
+    "url": "https://developers.google.com/events/5929929520447488/",
+    "iconUrl": "https://developers.google.com/_static/images/gdg-icon.png",
+    "id": "5929929520447488"
+  },
+  {
+    "className": [
+      "fc-past"
+    ],
+    "start": "2017-01-11T18:00:00-06:00",
+    "allDay": false,
+    "end": "2017-01-11T20:00:00-06:00",
+    "location": "Chamba, Via 5, Guatemala City, Guatemala Department, Guatemala",
+    "title": "Android Chat",
+    "url": "https://developers.google.com/events/6087068683599872/",
+    "iconUrl": "https://developers.google.com/_static/images/gdg-icon.png",
+    "id": "6087068683599872"
+  },
+  {
+    "className": [
+      "fc-past"
+    ],
+    "start": "2017-01-12T14:00:00+09:00",
+    "allDay": false,
+    "end": "2017-01-12T16:00:00+09:00",
+    "location": "대한민국 부산광역시 부산진구 부전2동 (주)마리포사",
+    "title": "GDG Busan -  스터디: Xcode",
+    "url": "https://developers.google.com/events/6285457450860544-5629499534213120/",
+    "iconUrl": "https://developers.google.com/_static/images/gdg-icon.png",
+    "id": "6285457450860544-5629499534213120"
+  },
+  {
+    "className": [
+      "fc-past"
+    ],
+    "start": "2017-01-12T16:00:00+05:30",
+    "allDay": false,
+    "end": "2017-01-12T18:00:00+05:30",
+    "location": "Google India Pvt. Ltd, Bengaluru, Karnataka, India",
+    "title": "Machine Intelligence at Google Scale",
+    "url": "https://developers.google.com/events/4913109971763200/",
+    "iconUrl": "https://developers.google.com/_static/images/gdg-icon.png",
+    "id": "4913109971763200"
+  },
+  {
+    "className": [
+      "fc-past"
+    ],
+    "start": "2017-01-12T18:30:00+08:00",
+    "allDay": false,
+    "end": "2017-01-12T20:30:00+08:00",
+    "location": "Ulaanbaatar, Mongolia",
+    "title": "GBG Mongolia / Talk : G SUIT practice ",
+    "url": "//www.google.com/landing/gbg/events/5093599462817792/",
+    "iconUrl": "//developers.google.com/_static/images/event-icon-gbg.png",
+    "id": "5093599462817792"
+  },
+  {
+    "className": [
+      "fc-past"
+    ],
+    "start": "2017-01-12T15:00:00+02:00",
+    "allDay": false,
+    "end": "2017-01-12T16:00:00+02:00",
+    "location": "ΙΕΚ ΑΚΜΗ, Tsimiski, Thessaloniki, Greece",
+    "title": "GDG Weekly Meetup",
+    "url": "https://developers.google.com/events/5620645997838336-5649050225344512/",
+    "iconUrl": "https://developers.google.com/_static/images/gdg-icon.png",
+    "id": "5620645997838336-5649050225344512"
+  },
+  {
+    "className": [
+      "fc-past"
+    ],
+    "start": "2017-01-12T16:00:00+01:00",
+    "allDay": true,
+    "end": "2017-01-13T17:00:00+01:00",
+    "location": "Ekiti State University, Ekiti, Nigeria",
+    "title": "EKSU Tech Training",
+    "url": "https://developers.google.com/events/6642821479792640/",
+    "iconUrl": "https://developers.google.com/_static/images/gdg-icon.png",
+    "id": "6642821479792640"
+  },
+  {
+    "className": [
+      "fc-past"
+    ],
+    "start": "2017-01-12T19:00:00+01:00",
+    "allDay": false,
+    "end": "2017-01-12T22:00:00+01:00",
+    "location": "Carrer del Cronista Carreres, 13, Valencia, Spain",
+    "title": "Taller práctico de Machine Learning",
+    "url": "https://developers.google.com/events/6611512778817536/",
+    "iconUrl": "https://developers.google.com/_static/images/gdg-icon.png",
+    "id": "6611512778817536"
+  },
+  {
+    "className": [
+      "fc-past"
+    ],
+    "start": "2017-01-12T20:00:00+01:00",
+    "allDay": false,
+    "end": "2017-01-12T21:00:00+01:00",
+    "location": "Logroño Bar breton",
+    "title": "El retorno del Código II",
+    "url": "https://developers.google.com/events/5556596434010112/",
+    "iconUrl": "https://developers.google.com/_static/images/gdg-icon.png",
+    "id": "5556596434010112"
+  },
+  {
+    "className": [
+      "fc-past"
+    ],
+    "start": "2017-01-12T20:00:00+01:00",
+    "allDay": false,
+    "end": "2017-01-12T22:00:00+01:00",
+    "location": "ThoughtWorks Werkstatt Berlin, Mülhauser Straße, Berlin, Germany",
+    "title": "Android Recreational Tinkering",
+    "url": "https://developers.google.com/events/5708404035944448-5700735861784576/",
+    "iconUrl": "https://developers.google.com/_static/images/gdg-icon.png",
+    "id": "5708404035944448-5700735861784576"
+  },
+  {
+    "className": [
+      "fc-past"
+    ],
+    "start": "2017-01-12T19:00:00-05:00",
+    "allDay": false,
+    "end": "2017-01-12T21:00:00-05:00",
+    "location": "2400 Boston Street, Baltimore, MD, United States",
+    "title": "GDG Baltimore Monthly Talk Night",
+    "url": "https://developers.google.com/events/4678152751415296-5649050225344512/",
+    "iconUrl": "https://developers.google.com/_static/images/gdg-icon.png",
+    "id": "4678152751415296-5649050225344512"
+  },
+  {
+    "className": [
+      "fc-past"
+    ],
+    "start": "2017-01-12T18:00:00-07:00",
+    "allDay": false,
+    "end": "2017-01-12T19:00:00-07:00",
+    "location": "2420 17th Street, Denver, CO, United States",
+    "title": "Kubernetes and you",
+    "url": "https://developers.google.com/events/5471328909656064/",
+    "iconUrl": "https://developers.google.com/_static/images/gdg-icon.png",
+    "id": "5471328909656064"
+  },
+  {
+    "className": [
+      "fc-past"
+    ],
+    "start": "2017-01-13T16:00:00+04:00",
+    "allDay": false,
+    "end": "2017-01-13T17:00:00+04:00",
+    "location": "Samara, Самарская область, Россия",
+    "title": "Next ’17 Extended - Samara",
+    "url": "https://developers.google.com/events/6621837611761664/",
+    "iconUrl": "https://developers.google.com/_static/images/gdg-icon.png",
+    "id": "6621837611761664"
+  },
+  {
+    "className": [
+      "fc-past"
+    ],
+    "start": "2017-01-13T17:00:00+01:00",
+    "allDay": false,
+    "end": "2017-01-13T18:00:00+01:00",
+    "location": "Basement, University of Benin",
+    "title": "GDG Benin leads meetup",
+    "url": "https://developers.google.com/events/6046578282070016/",
+    "iconUrl": "https://developers.google.com/_static/images/gdg-icon.png",
+    "id": "6046578282070016"
+  },
+  {
+    "className": [
+      "fc-past"
+    ],
+    "start": "2017-01-13T20:00:00+02:00",
+    "allDay": false,
+    "end": "2017-01-13T21:00:00+02:00",
+    "location": "Cultural & Conference Center of Heraklion, Romanou, Heraklion, Greece",
+    "title": "Weekly Meetup",
+    "url": "https://developers.google.com/events/6298449170137088-5639274879778816/",
+    "iconUrl": "https://developers.google.com/_static/images/gdg-icon.png",
+    "id": "6298449170137088-5639274879778816"
+  },
+  {
+    "className": [
+      "fc-past"
+    ],
+    "start": "2017-01-13T20:00:00+01:00",
+    "allDay": false,
+    "end": "2017-01-13T21:00:00+01:00",
+    "location": "Blida, Wilaya de Blida, Algérie",
+    "title": "Let's React with Riad Benguella",
+    "url": "https://developers.google.com/events/6738493486923776/",
+    "iconUrl": "https://developers.google.com/_static/images/gdg-icon.png",
+    "id": "6738493486923776"
+  },
+  {
+    "className": [
+      "fc-past"
+    ],
+    "start": "2017-01-13T21:00:00+00:00",
+    "allDay": false,
+    "end": "2017-01-13T22:00:00+00:00",
+    "location": "Abidjan, Région des lagunes, Côte d'Ivoire",
+    "title": "MEETING ORGANISATION DEVFEST CI 16",
+    "url": "https://developers.google.com/events/4685212833021952/",
+    "iconUrl": "https://developers.google.com/_static/images/gdg-icon.png",
+    "id": "4685212833021952"
+  },
+  {
+    "className": [
+      "fc-past"
+    ],
+    "start": "2017-01-14T00:00:00+03:00",
+    "allDay": false,
+    "end": "2017-01-14T15:00:00+03:00",
+    "location": "Moscow, Russia",
+    "title": "Firebase Meetup",
+    "url": "https://developers.google.com/events/5758802965823488/",
+    "iconUrl": "https://developers.google.com/_static/images/gdg-icon.png",
+    "id": "5758802965823488"
+  },
+  {
+    "className": [
+      "fc-past"
+    ],
+    "start": "2017-01-14T00:00:00+03:00",
+    "allDay": true,
+    "end": "2017-01-14T00:00:00+03:00",
+    "location": "Buni Innovation Hub, Dar es Salaam, Tanzania",
+    "title": "Dev Festival GDG Tanzania 2016",
+    "url": "https://developers.google.com/events/6274963829686272/",
+    "iconUrl": "https://developers.google.com/_static/images/gdg-icon.png",
+    "id": "6274963829686272"
+  },
+  {
+    "className": [
+      "fc-past"
+    ],
+    "start": "2017-01-14T00:00:00+01:00",
+    "allDay": true,
+    "end": "2017-01-14T00:00:00+01:00",
+    "location": "Ebolowa, Région du Sud, Cameroun",
+    "title": "Chrome Dev from zero to hero",
+    "url": "https://developers.google.com/events/6039790695481344-5668600916475904/",
+    "iconUrl": "https://developers.google.com/_static/images/gdg-icon.png",
+    "id": "6039790695481344-5668600916475904"
+  },
+  {
+    "className": [
+      "fc-past"
+    ],
+    "start": "2017-01-14T08:00:00+03:00",
+    "allDay": false,
+    "end": "2017-01-14T17:00:00+03:00",
+    "location": "Strathmore University, Nairobi, Nairobi County, Kenya",
+    "title": "DevFest Nairobi 2016",
+    "url": "https://developers.google.com/events/5358064461676544/",
+    "iconUrl": "https://developers.google.com/_static/images/gdg-icon.png",
+    "id": "5358064461676544"
+  },
+  {
+    "className": [
+      "fc-past"
+    ],
+    "start": "2017-01-14T08:00:00+03:00",
+    "allDay": false,
+    "end": "2017-01-14T17:00:00+03:00",
+    "location": "Strathmore University, Nairobi, Nairobi County, Kenya",
+    "title": "DevFest Nairobi",
+    "url": "https://developers.google.com/events/5921127396016128/",
+    "iconUrl": "https://developers.google.com/_static/images/gdg-icon.png",
+    "id": "5921127396016128"
+  },
+  {
+    "className": [
+      "fc-past"
+    ],
+    "start": "2017-01-14T08:00:00+03:00",
+    "allDay": false,
+    "end": "2017-01-14T16:00:00+03:00",
+    "location": "Buni Innovation Hub, Dar es Salaam, Tanzania",
+    "title": "GDG DevFest Tanzania",
+    "url": "https://developers.google.com/events/5957214642372608/",
+    "iconUrl": "https://developers.google.com/_static/images/gdg-icon.png",
+    "id": "5957214642372608"
+  },
+  {
+    "className": [
+      "fc-past"
+    ],
+    "start": "2017-01-14T13:30:00+08:00",
+    "allDay": false,
+    "end": "2017-01-14T17:30:00+08:00",
+    "location": "Wisma Bandaraya Jalan Padang Kota Kinabalu Sabah Malaysia",
+    "title": "(GBG Kota Kinabalu) Kupi Kupi TALK: New Year Edition.",
+    "url": "//www.google.com/landing/gbg/events/4552293627985920/",
+    "iconUrl": "//developers.google.com/_static/images/event-icon-gbg.png",
+    "id": "4552293627985920"
+  },
+  {
+    "className": [
+      "fc-past"
+    ],
+    "start": "2017-01-14T11:00:00+05:30",
+    "allDay": false,
+    "end": "2017-01-14T16:00:00+05:30",
+    "location": "IIT Bhubaneswar New Campus, Kansapada, Odisha, India",
+    "title": "Android Workshop at IIT Bhubaneswar",
+    "url": "https://developers.google.com/events/5632927700090880/",
+    "iconUrl": "https://developers.google.com/_static/images/gdg-icon.png",
+    "id": "5632927700090880"
+  },
+  {
+    "className": [
+      "fc-past"
+    ],
+    "start": "2017-01-14T13:30:00+08:00",
+    "allDay": false,
+    "end": "2017-01-14T16:30:00+08:00",
+    "location": "西安市碑林区南二环西段69号",
+    "title": "GDG Xi'an Monthly Meetup",
+    "url": "https://developers.google.com/events/5943902525456384/",
+    "iconUrl": "https://developers.google.com/_static/images/gdg-icon.png",
+    "id": "5943902525456384"
+  },
+  {
+    "className": [
+      "fc-past"
+    ],
+    "start": "2017-01-14T09:00:00-03:00",
+    "allDay": false,
+    "end": "2017-01-14T11:00:00-03:00",
+    "location": "UNIPÊ - Água Fria, João Pessoa - PB, Brasil",
+    "title": "Club do Android",
+    "url": "https://developers.google.com/events/5527033201033216/",
+    "iconUrl": "https://developers.google.com/_static/images/gdg-icon.png",
+    "id": "5527033201033216"
+  },
+  {
+    "className": [
+      "fc-past"
+    ],
+    "start": "2017-01-14T18:00:00+05:30",
+    "allDay": false,
+    "end": "2017-01-14T19:00:00+05:30",
+    "location": "Civil Lines, Allahabad, Uttar Pradesh, India",
+    "title": "GDG Organiser's Meetup",
+    "url": "https://developers.google.com/events/6723553577402368/",
+    "iconUrl": "https://developers.google.com/_static/images/gdg-icon.png",
+    "id": "6723553577402368"
+  },
+  {
+    "className": [
+      "fc-past"
+    ],
+    "start": "2017-01-14T14:00:00-03:00",
+    "allDay": false,
+    "end": "2017-01-14T16:00:00-03:00",
+    "location": "Av. Des. Maynart, 142 - Suíssa, Aracaju - SE, Brasil",
+    "title": "Coding Dojo",
+    "url": "https://developers.google.com/events/6425634647310336/",
+    "iconUrl": "https://developers.google.com/_static/images/gdg-icon.png",
+    "id": "6425634647310336"
+  },
+  {
+    "className": [
+      "fc-past"
+    ],
+    "start": "2017-01-15T09:00:00+07:00",
+    "allDay": false,
+    "end": "2017-01-15T12:00:00+07:00",
+    "location": "Lao IT Dev. Co., Ltd., Vientiane, Laos",
+    "title": "GDG Vientiane Weekly Meetup17 #1/1",
+    "url": "https://developers.google.com/events/5471849246621696/",
+    "iconUrl": "https://developers.google.com/_static/images/gdg-icon.png",
+    "id": "5471849246621696"
+  },
+  {
+    "className": [
+      "fc-past"
+    ],
+    "start": "2017-01-15T10:00:00+08:00",
+    "allDay": false,
+    "end": "2017-01-15T18:00:00+08:00",
+    "location": "Wisma Bandaraya Jalan Padang Kota Kinabalu Sabah Malaysia",
+    "title": "GDG DevFest Kota Kinabalu 2016",
+    "url": "https://developers.google.com/events/6611251160678400/",
+    "iconUrl": "https://developers.google.com/_static/images/gdg-icon.png",
+    "id": "6611251160678400"
+  },
+  {
+    "className": [
+      "fc-past"
+    ],
+    "start": "2017-01-15T14:00:00+07:00",
+    "allDay": false,
+    "end": "2017-01-15T17:00:00+07:00",
+    "location": "ulitsa Nikolaeva, 11, Novosibirsk, Novosibirsk Oblast, Russia",
+    "title": "Golang School ",
+    "url": "https://developers.google.com/events/6218502433931264/",
+    "iconUrl": "https://developers.google.com/_static/images/gdg-icon.png",
+    "id": "6218502433931264"
+  },
+  {
+    "className": [
+      "fc-past"
+    ],
+    "start": "2017-01-15T17:00:00+07:00",
+    "allDay": false,
+    "end": "2017-01-15T19:00:00+07:00",
+    "location": "улица Аэровокзальная, 10, Красноярск, Красноярский край, Россия",
+    "title": "D2D Lett me tell you about SEO",
+    "url": "https://developers.google.com/events/4536248066375680/",
+    "iconUrl": "https://developers.google.com/_static/images/gdg-icon.png",
+    "id": "4536248066375680"
+  },
+  {
+    "className": [
+      "fc-present"
+    ],
+    "start": "2017-01-15T15:00:00+02:00",
+    "allDay": true,
+    "end": "2017-01-16T16:00:00+02:00",
+    "location": "King Hussein Business Park (KHBP), Amman, Jordan",
+    "title": "GDG Amman Team Meetup ",
+    "url": "https://developers.google.com/events/5079045764546560-5766466041282560/",
+    "iconUrl": "https://developers.google.com/_static/images/gdg-icon.png",
+    "id": "5079045764546560-5766466041282560"
+  },
+  {
+    "className": [
+      "fc-past"
+    ],
+    "start": "2017-01-15T17:00:00+02:00",
+    "allDay": false,
+    "end": "2017-01-15T18:00:00+02:00",
+    "location": "Jordan University of Science and Technology, Irbid, Habaka, Jordan",
+    "title": "Monthly Meetup ",
+    "url": "https://developers.google.com/events/4786805635547136-5122315436163072/",
+    "iconUrl": "https://developers.google.com/_static/images/gdg-icon.png",
+    "id": "4786805635547136-5122315436163072"
+  }
+]
