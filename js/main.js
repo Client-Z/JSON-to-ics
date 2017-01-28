@@ -1,10 +1,9 @@
 
 const beginICalendar = "BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//lanyrd.com//Lanyrd//EN\nX-ORIGINAL-URL:http://lanyrd.com/2016/xpdays/xpdays-schedule.ics\nX-WR-CALNAME;CHARSET=utf-8:XP Days Ukraine 2016 schedule\nMETHOD:PUBLISH\nX-MS-OLK-FORCEINSPECTOROPEN:TRUE\n";
 const endICalendar = "END:VCALENDAR";
-const maxLengthProperty = 67;
+const maxLengthProperty = 70;
 let google_events = "";
 let dtStamp = dtStampGenerate();
-
 
 
 var xhr = new XMLHttpRequest();
@@ -18,11 +17,7 @@ xhr.onload = function(){
 	 	google_events = eventToICalendar(google_events_obj[i], google_events);
 	}
 	google_events += endICalendar;
-	//console.log(google_events);
-
-
-
-download(google_events, "calendar", "ics");
+	download(google_events, "calendar", "ics");
 }
 xhr.open('GET', 'http://javascript.kiev.ua/attach/icalendar/google_events.json', true);
 xhr.send( );
@@ -48,6 +43,8 @@ function eventToICalendar(event, google_events){
 	return google_events;
 }
 
+
+// Вычисляем вес строки в байтах
 String.prototype.byteLength = function(){
    var str = this, length = str.length, count = 0, i = 0, ch = 0;
    for(i; i < length; i++){
@@ -69,6 +66,8 @@ String.prototype.byteLength = function(){
   return count;
 };
 
+
+// редактируем слишком длинные строки в соответствии со спецификацией RFC
 function contentLinesRFC(str){
 	str += "";
 	if(str.byteLength() > maxLengthProperty){
@@ -80,6 +79,7 @@ function contentLinesRFC(str){
 }
 
 
+// форматируем дату
 function cleaningDate(date){
 	date = date.slice(0,10);
 	for (var i = 0; i < date.length; i++) {
@@ -111,36 +111,10 @@ function download(data, filename, type) {
 }
 
 
+// устанавливаем значение текущей даты в dtStamp форматируя его под формат ICS
 function dtStampGenerate(){
 	var d = new Date();
 	var datestring = d.getFullYear() + "" + ("0"+(d.getMonth()+1)).slice(-2) + ("0" + d.getDate()).slice(-2) + "T"
 	+ d.getHours() + "" + ("0"+(d.getMinutes()+1)).slice(-2) + "" + ("0"+(d.getSeconds()+1)).slice(-2);
 	return datestring;
-
 }
-
-
-
-
-
-// function byteLength(str){
-//    var length = str.length, count = 0, i = 0, ch = 0;
-//    for(i; i < length; i++){
-//      ch = str.charCodeAt(i);
-//      if(ch <= 127){
-//         count++;
-//      }else if(ch <= 2047){
-//         count += 2;
-//      }else if(ch <= 65535){
-//         count += 3;
-//      }else if(ch <= 2097151){
-//         count += 4;
-//      }else if(ch <= 67108863){
-//         count += 5;
-//      }else{
-//         count += 6;
-//      }    
-//   }
-//   return count;
-// };
-
