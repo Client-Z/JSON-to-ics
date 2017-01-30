@@ -1,19 +1,15 @@
-
 const beginICalendar = "BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//lanyrd.com//Lanyrd//EN\nX-ORIGINAL-URL:http://lanyrd.com/2016/xpdays/xpdays-schedule.ics\nX-WR-CALNAME;CHARSET=utf-8:XP Days Ukraine 2016 schedule\nMETHOD:PUBLISH\nX-MS-OLK-FORCEINSPECTOROPEN:TRUE\n";
 const endICalendar = "END:VCALENDAR";
 const maxLengthProperty = 70;
 let google_events = "";
 let dtStamp = dtStampGenerate();
 
-
 var xhr = new XMLHttpRequest();
 xhr.onload = function(){
 	google_events = xhr.responseText;
 	let google_events_obj = JSON.parse(google_events);
-
 	google_events = beginICalendar;
 	for (let i = 0; i < google_events_obj.length; i++) {
-
 	 	google_events = eventToICalendar(google_events_obj[i], google_events);
 	}
 	google_events += endICalendar;
@@ -21,7 +17,6 @@ xhr.onload = function(){
 }
 xhr.open('GET', 'http://javascript.kiev.ua/attach/icalendar/google_events.json', true);
 xhr.send( );
-
 
 //возможно лучше использовать метод concat вместо +=?
 function eventToICalendar(event, google_events){
@@ -39,10 +34,8 @@ function eventToICalendar(event, google_events){
 	google_events += "ICONURL:" + event.iconUrl + "\n";
 	google_events += "DESCRIPTION:" + "\n";
 	google_events += "END:VEVENT\n";
-
 	return google_events;
 }
-
 
 // Вычисляем вес строки в байтах
 String.prototype.byteLength = function(){
@@ -66,7 +59,6 @@ String.prototype.byteLength = function(){
   return count;
 };
 
-
 // редактируем слишком длинные строки в соответствии со спецификацией RFC
 function contentLinesRFC(str){
 	str += "";
@@ -74,10 +66,8 @@ function contentLinesRFC(str){
 		result = str.slice(0, str.length/2) + "\n" + " ";
 		result += str.slice(str.length/2, str.length-1);
 		return result;
-
 	}
 }
-
 
 // форматируем дату
 function cleaningDate(date){
@@ -89,7 +79,6 @@ function cleaningDate(date){
 	}
 	return date;
 }
-
 
 // Function to download data to a file
 function download(data, filename, type) {
@@ -109,7 +98,6 @@ function download(data, filename, type) {
         }, 0); 
     }
 }
-
 
 // устанавливаем значение текущей даты в dtStamp форматируя его под формат ICS
 function dtStampGenerate(){
